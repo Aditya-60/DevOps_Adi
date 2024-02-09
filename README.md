@@ -6,3 +6,5 @@ Dijkstra's and A* consider edge weights, with A* incorporating a heuristic for a
 efficiency, while BFS explores all possibilities without considering weights. The
 choice of algorithm depends on the characteristics of the maze and the specific
 requirements of the application.
+
+To run this project simply run main.py file.
